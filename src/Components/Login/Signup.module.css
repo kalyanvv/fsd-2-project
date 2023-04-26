@@ -1,0 +1,62 @@
+.input {
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+    background-color: #28282b;
+}
+
+.input label {
+    color : beige;
+    display: block;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.input input {
+    font: inherit;
+    display: block;
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 0.15rem;
+    margin-bottom: 0.5rem;
+}
+
+.input input:focus {
+    outline: none;
+    border-color: #4f005f;
+}
+.header {
+    text-align: center;
+    color: beige;
+    background-color: #28282b;
+}
+
+.Button {
+    color:#404040;
+    background-color: beige;
+    border :4px solid #28282b;
+}
+
+.Button:hover{
+    background-color: #28282b;
+    color:beige;
+    border :4px solid beige;
+}
+
+.Button:active {
+    background-color: #28282b;
+    color:beige;
+    border :4px solid beige;
+}
+
+.a{
+    text-decoration: none;
+    color:beige;
+    font-size: 20px;
+}
+.a:hover{
+    color: beige;
+    text-decoration: underline;
+    text-shadow: #464646;
+}

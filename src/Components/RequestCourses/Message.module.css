@@ -1,0 +1,29 @@
+.input {
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 80rem;
+    background-color: #d29a55;
+    /* text-align: center; */
+}
+:root {
+    --borderWidth: 7px;
+    --height: 24px;
+    --width: 12px;
+    --borderColor: #78b13f;
+}
+
+body {
+    /* padding: 20px; */
+    background-color: beige;
+    /* text-align: center; */
+}
+
+.check {
+    display: inline-block;
+    transform: rotate(45deg);
+    height: var(--height);
+    width: var(--width);
+    border-bottom: var(--borderWidth) solid var(--borderColor);
+    border-right: var(--borderWidth) solid var(--borderColor);
+}

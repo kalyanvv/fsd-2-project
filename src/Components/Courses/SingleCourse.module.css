@@ -1,0 +1,58 @@
+.main{
+  width: 100%;
+  height: 100%;
+  background-color: beige;
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+  padding-left:60px;
+  
+}
+
+.course{
+  display:flex;
+  background-color: #d29a55;
+  margin-right: 60px;
+  margin-bottom: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgba(0,0,0,0.5);
+  padding: 20px;
+}
+
+.button {
+  border:5px solid #28282b;
+  height:40px;
+  border-radius: 10px;
+  font-weight: bold;
+}
+.button:hover {
+  background-color: blanchedalmond;
+}
+.course__image{
+  height:300px;
+  width:300px;
+  margin-left: 20%;
+  margin-top: 2.5%;
+}
+
+.steps {
+  font-size: large;
+}
+
+.description {
+  padding-top: 20px;
+  padding-left:40px;
+  font-weight: bolder;
+}
+
+.title {
+  font-size: 60px;
+}
+
+.desc {
+  font-style: italic;
+
+}
+.creator {
+  font-size: medium;
+}

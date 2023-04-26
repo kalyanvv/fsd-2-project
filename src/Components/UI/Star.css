@@ -1,0 +1,26 @@
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.on {
+    color: rgb(231, 234, 26);
+}
+
+.off {
+    color: #ccc;
+}
+
+.Button {
+    color:#404040;
+    background-color: beige;
+    border :3px solid #d29a55;
+}
+
+.Button:hover{
+    background-color: #F5F5da;
+    color:black;
+    border :3px solid black;
+}

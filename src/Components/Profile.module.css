@@ -1,0 +1,51 @@
+.body{
+    /* padding-bottom: 10px; */
+    background-color: beige;
+}
+.header{
+    height: 150px;
+    background-color: #d29a55;
+    /* padding-top: 60px; */
+    text-align: center;
+}   
+
+.content{
+    background-color: beige;
+}
+.image{
+    width:200px;
+    height: 200px;
+}
+
+.name{
+    margin-top: 110px;
+    text-align: center;
+    text-transform:initial;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+
+.heading{
+    padding-left:40px;
+    font-size: xx-large;
+    font-family:sans-serif;
+
+}
+
+.badges{
+    margin : 1rem;
+    /* margin-top:10px;
+    margin-left:30px; */
+    display: flex;
+    /* margin-right: 30px; */
+    /* justify-content: center; */
+}
+
+.innerbadge{
+    margin: 1rem;
+    
+}
+
+.profilep{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}

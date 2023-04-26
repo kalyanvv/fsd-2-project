@@ -1,0 +1,40 @@
+.body{
+    width: 230px;
+    height:340px;
+    /* margin: 10px; */
+    /* padding-bottom:10px; */
+    background-color: beige;
+    box-shadow: 20px;
+    /* border: 2px solid #d29a55; */
+    border-radius: 5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.image{
+    width:200px;
+    height: 200px;
+    margin-top: 15px;
+    margin-left:15px;
+    border-radius: 10%;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bolder;
+    padding-left: 10px;
+    padding-right: 10px;;
+}
+
+.share{
+    margin-right: 10px;
+    text-align: end;
+}
+.shareicon{
+    height:30px;
+    width:30px;
+    padding:5px;
+    border-radius: 50%;
+}

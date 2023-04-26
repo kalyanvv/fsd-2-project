@@ -1,0 +1,16 @@
+.input {
+    text-align: centre;
+    color : black;
+    background-color: #d29a55;
+}
+.Button {
+    color:#404040;
+    background-color: beige;
+    border :3px solid #d29a55;
+}
+
+.Button:hover{
+    background-color: #F5F5da;
+    color:black;
+    border :3px solid black;
+}

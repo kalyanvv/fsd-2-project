@@ -1,0 +1,17 @@
+.Button {
+    color:#404040;
+    background-color: beige;
+    border :4px solid #28282b;
+}
+
+.Button:hover{
+    background-color: #28282b;
+    color:beige;
+    border :4px solid beige;
+}
+
+.Button:active {
+    background-color: #28282b;
+    color:beige;
+    border :4px solid beige;
+}
